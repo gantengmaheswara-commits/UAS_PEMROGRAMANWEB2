@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #2D5A46; /* Hijau tua khas alam */
+  color: #ffffff;
+  font-family: sans-serif;
+}
